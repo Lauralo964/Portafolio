@@ -108,7 +108,7 @@ Aplicación web desarrollada durante mi experiencia/prácticas, orientada a la g
 **Capturas del sistema:**
 
 **Vista Publicaciones** 
-<img width="1439" height="778" alt="Categorias" src="https://github.com/user-attachments/assets/88b28c0e-a7bb-46b7-b8d0-67d77a291301" /> 
+<img width="1439" height="760" alt="Publicaciones" src="https://github.com/user-attachments/assets/c23a07b1-45fd-4786-83e4-26d939cca52a" />
 
 **Vista categorias** 
 <img width="1439" height="778" alt="Categorias" src="https://github.com/user-attachments/assets/369979c2-c926-4cd9-8022-4c1518a43ae9" /> 
