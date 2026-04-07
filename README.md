@@ -41,10 +41,17 @@ Pequeña aplicación web desarrollada para la gestión de usuarios mediante un d
 -Integración con base de datos mediante Knex.js 
 
 **Capturas del sistema** 
+
 **Pantalla de Inicio de sesión** 
-<img width="1136" height="642" alt="login" src="https://github.com/user-attachments/assets/06b6f944-2e2b-4e49-9a02-29322a498c7d" /> **Pantalla de registro** 
-<img width="947" height="630" alt="image" src="https://github.com/user-attachments/assets/e1cd6a1f-d00a-4e6a-bfa6-f165db18e3f4" /> **Dashboard** 
-<img width="1340" height="607" alt="image" src="https://github.com/user-attachments/assets/25ce95fe-2763-478c-a679-bb9dccc9c0c1" /> **Repositorio:** 
+<img width="1136" height="642" alt="login" src="https://github.com/user-attachments/assets/06b6f944-2e2b-4e49-9a02-29322a498c7d" />
+
+**Pantalla de registro** 
+<img width="947" height="630" alt="image" src="https://github.com/user-attachments/assets/e1cd6a1f-d00a-4e6a-bfa6-f165db18e3f4" /> 
+
+**Dashboard** 
+<img width="1340" height="607" alt="image" src="https://github.com/user-attachments/assets/25ce95fe-2763-478c-a679-bb9dccc9c0c1" /> 
+
+**Repositorio:** 
 https://github.com/Lauralo964/Interfaz_Usuario.git
 
 ## 🖥️ Clon página web - Teleperformance 
@@ -64,8 +71,10 @@ Aplicación web desarrollada como práctica de maquetación y desarrollo fronten
 -Adaptación del diseño para mejorar la experiencia del usuario 
 
 **Capturas del sistema:** 
+
 **Vista completa de la página** 
-<img width="1340" height="607" alt="image" src="https://github.com/user-attachments/assets/909445e8-b5fe-44cc-9f19-050920bceba3" /> 
+<img width="1118" height="10332" alt="Pagina web" src="https://github.com/user-attachments/assets/36c76f51-80ef-40ac-8356-b8b5e5637410" />
+
 
 **Repositorio:** 
 https://github.com/Lauralo964/P-gina_Web.git
@@ -96,8 +105,13 @@ Aplicación web desarrollada durante mi experiencia/prácticas, orientada a la g
 
 **Nota:** El código fuente no puede ser compartido por políticas de confidencialidad. 
 
-**Capturas del sistema:** 
+**Capturas del sistema:**
+
 **Vista Publicaciones** 
-<img width="1439" height="778" alt="Categorias" src="https://github.com/user-attachments/assets/88b28c0e-a7bb-46b7-b8d0-67d77a291301" /> **Vista categorias** 
-<img width="1439" height="778" alt="Categorias" src="https://github.com/user-attachments/assets/369979c2-c926-4cd9-8022-4c1518a43ae9" /> **Vista reportes** 
+<img width="1439" height="778" alt="Categorias" src="https://github.com/user-attachments/assets/88b28c0e-a7bb-46b7-b8d0-67d77a291301" /> 
+
+**Vista categorias** 
+<img width="1439" height="778" alt="Categorias" src="https://github.com/user-attachments/assets/369979c2-c926-4cd9-8022-4c1518a43ae9" /> 
+
+**Vista reportes** 
 <img width="1439" height="763" alt="ControlReportes" src="https://github.com/user-attachments/assets/6102128e-9a0f-4c08-9c44-a318d0b5759b" />
