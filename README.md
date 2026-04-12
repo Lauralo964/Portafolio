@@ -101,7 +101,29 @@ Aplicación web desarrollada como práctica de maquetación y desarrollo fronten
 **Capturas del sistema:** 
 
 **Vista completa de la página** 
-<img width="1118" height="10332" alt="Pagina web" src="https://github.com/user-attachments/assets/36c76f51-80ef-40ac-8356-b8b5e5637410" />
+<img width="1364" height="767" alt="img1" src="https://github.com/user-attachments/assets/47571ea2-14c2-4f15-bbf3-a1b2738988db" />
+<img width="1365" height="722" alt="img2" src="https://github.com/user-attachments/assets/3f405de0-074f-4812-9ddc-e9a915f1e294" />
+<img width="1365" height="719" alt="img3" src="https://github.com/user-attachments/assets/3b8afcd0-a9f2-453f-b72f-3a4bdd517605" />
+<img width="1365" height="719" alt="img4" src="https://github.com/user-attachments/assets/2817f0cd-914e-445d-adb0-d280593124ca" />
+<img width="1365" height="718" alt="img5" src="https://github.com/user-attachments/assets/ca0fe22d-4857-4e25-8aa6-ba767806d104" />
+<img width="1365" height="722" alt="img6" src="https://github.com/user-attachments/assets/c4584341-6a5b-4b93-81ec-48065d08e9a9" />
+<img width="1365" height="722" alt="img7" src="https://github.com/user-attachments/assets/35908a61-2455-489c-aeb6-cf14def3c70f" />
+<img width="1365" height="723" alt="img8" src="https://github.com/user-attachments/assets/587c47e3-9176-4063-b28e-b8bd3a6f4735" />
+<img width="1365" height="720" alt="img9" src="https://github.com/user-attachments/assets/761fd2eb-2122-48bf-8b7b-70d60b1ee91b" />
+<img width="1365" height="718" alt="img10" src="https://github.com/user-attachments/assets/f29e1f75-70c9-4bcc-aaca-961960cf4b07" />
+<img width="1365" height="719" alt="img11" src="https://github.com/user-attachments/assets/58e687e6-3bf2-4fd3-98cf-60f7f945b6b4" />
+<img width="1365" height="721" alt="img12" src="https://github.com/user-attachments/assets/7bf85552-852d-40f1-ba9a-7ba80f863327" />
+<img width="1365" height="722" alt="img13" src="https://github.com/user-attachments/assets/02695a66-556f-48c9-960c-d01e32cc52b1" />
+<img width="1365" height="716" alt="img14" src="https://github.com/user-attachments/assets/0cf1506d-c323-414c-bce8-796f8a271931" />
+<img width="1365" height="720" alt="img15" src="https://github.com/user-attachments/assets/ee156524-48be-4c01-ae31-7c7ebdafd67b" />
+<img width="1364" height="720" alt="img16" src="https://github.com/user-attachments/assets/9a755fa5-d50c-4311-99bb-9ccf2bae6a7e" />
+<img width="1365" height="722" alt="img17" src="https://github.com/user-attachments/assets/a28dff19-b0b2-4c03-acc9-742345f55313" />
+<img width="1365" height="719" alt="img18" src="https://github.com/user-attachments/assets/71ffc00f-f0ff-449a-88ed-9c525d888aa8" />
+<img width="1365" height="718" alt="img19" src="https://github.com/user-attachments/assets/a7003364-b499-4fe7-bd1c-e42872232450" />
+<img width="1365" height="722" alt="img20" src="https://github.com/user-attachments/assets/0acb1bb9-84d0-4e37-8201-49e335480708" />
+<img width="1365" height="718" alt="img21" src="https://github.com/user-attachments/assets/8e44b736-0ed1-4372-bcf3-3580ffeb28cd" />
+<img width="1365" height="722" alt="img22" src="https://github.com/user-attachments/assets/4e1c7725-ce7e-4a0e-841e-0201a422c7fe" />
+<img width="1365" height="719" alt="img23" src="https://github.com/user-attachments/assets/29022f79-94cb-434f-a643-e67baf0d6149" />
 
 
 **Repositorio:** 
