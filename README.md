@@ -4,34 +4,23 @@ Soy estudiante de Ingeniería de Sistemas con formación en desarrollo de softwa
 ## Tecnologías 
 
 **Frontend:** 
-
--JavaScript 
-
--HTML 
-
--Bootstrap 
-
--Material UI(MUI) 
+- JavaScript 
+- HTML 
+- Bootstrap 
+- Material UI(MUI) 
 
 **Backend:** 
-
--Node.js 
-
--Express 
+- Node.js 
+- Express 
 
 **Base de datos:** 
-
--Knex
-
--SQL 
+- Knex
+- SQL 
 
 **Herramientas:** 
-
--Vite 
-
--Visual Studio Code 
-
--Postman 
+- Vite 
+- Visual Studio Code 
+- Postman 
 
 ## 📂 Proyectos 
 ## 🖥️ Interfaz de Usuario - Dashboard Administrativo 
@@ -40,28 +29,19 @@ Pequeña aplicación web desarrollada para la gestión de usuarios mediante un d
 **🚀 Tecnologías:** React, JavaScript, Node.js, Express, Knex.js, Material UI (MUI), Vite 
 
 **Funcionalidades:** 
-
--Sistema de autenticación con inicio de sesión y registro de usuarios 
-
--Manejo de roles(administrador y cliente) 
-
--Protección de rutas mediante middlewares 
-
--Gestión de sesiones utilizando cookies 
-
--Visualización de dashboard exclusivo para administradores 
+- Sistema de autenticación con inicio de sesión y registro de usuarios 
+- Manejo de roles(administrador y cliente) 
+- Protección de rutas mediante middlewares 
+- Gestión de sesiones utilizando cookies 
+- Visualización de dashboard exclusivo para administradores 
 
 **Mi aporte:** 
+- Desarrollo del frontend utilizando Material UI para una interfaz moderna y responsiva 
+- Implementación del backend con Express 
+- Configuración de rutas protegidas y lógica de autenticación 
+- Integración con base de datos mediante Knex.js 
 
--Desarrollo del frontend utilizando Material UI para una interfaz moderna y responsiva 
-
--Implementación del backend con Express 
-
--Configuración de rutas protegidas y lógica de autenticación 
-
--Integración con base de datos mediante Knex.js 
-
-**Capturas del sistema** 
+**📸 Capturas del sistema** 
 
 **Pantalla de Inicio de sesión** 
 <img width="1136" height="642" alt="login" src="https://github.com/user-attachments/assets/06b6f944-2e2b-4e49-9a02-29322a498c7d" />
@@ -81,24 +61,17 @@ Aplicación web desarrollada como práctica de maquetación y desarrollo fronten
 **🚀 Tecnologías:** HTML, Bootstrap, JavaScript 
 
 **Funcionalidades:** 
-
--Diseño responsivo adaptable a diferentes dispositivos 
-
--Estructuración de secciones (Inicio, servicios, ubicaciones, contacto, etc.) 
-
--Uso de componentes de Bootstrap para una interfaz moderna 
-
--Implementación de interactividad con JavaScript (Validaciones, eventos, manipulación del DOM, etc.) 
+- Diseño responsivo adaptable a diferentes dispositivos 
+- Estructuración de secciones (Inicio, servicios, ubicaciones, contacto, etc.) 
+- Uso de componentes de Bootstrap para una interfaz moderna 
+- Implementación de interactividad con JavaScript (Validaciones, eventos, manipulación del DOM, etc.) 
 
 **Mi aporte:** 
+- Desarrollo completo de la estructura y estilos de la página 
+- Implementación de funcionalidades dinámicas con JavaScript 
+- Adaptación del diseño para mejorar la experiencia del usuario 
 
--Desarrollo completo de la estructura y estilos de la página 
-
--Implementación de funcionalidades dinámicas con JavaScript 
-
--Adaptación del diseño para mejorar la experiencia del usuario 
-
-**Capturas del sistema:** 
+**📸 Capturas del sistema:** 
 
 **Vista completa de la página** 
 <img width="1364" height="767" alt="img1" src="https://github.com/user-attachments/assets/47571ea2-14c2-4f15-bbf3-a1b2738988db" />
@@ -135,42 +108,27 @@ Aplicación web desarrollada durante mi experiencia/prácticas, orientada a la g
 **🚀 Tecnologías:** React, JavaScript, Node.js, Express, Azure, Knex.js, Material UI (MUI) 
 
 **Funcionalidades:** 
-
--Publicación y consulta de información relevante para los agentes 
-
--Gestión de módulos y categorías para organizar el contenido 
-
--Sistema de evaluaciones para el seguimiento de agentes 
-
--Generación y visualización de reportes 
-
--Organización y gestión de contenidos dentro de la plataforma 
-
--Interfaz y gestión para facilitar la navegación y acceso a la información 
-
--Integración con base de datos para almacenamiento y consulta de datos 
-
--Protección de rutas mediante middlewares 
-
--Control de acceso según roles de usuario 
-
--Manejo de sesiones utilizando cookies 
+- Publicación y consulta de información relevante para los agentes 
+- Gestión de módulos y categorías para organizar el contenido 
+- Sistema de evaluaciones para el seguimiento de agentes 
+- Generación y visualización de reportes 
+- Organización y gestión de contenidos dentro de la plataforma 
+- Interfaz y gestión para facilitar la navegación y acceso a la información 
+- Integración con base de datos para almacenamiento y consulta de datos 
+- Protección de rutas mediante middlewares 
+- Control de acceso según roles de usuario 
+- Manejo de sesiones utilizando cookies 
 
 **Mi aporte:** 
-
--Desarrollo de funcionalidades frontend y backend 
-
--Implementación de lógica para la gestión de información 
-
--Configuración de autenticación, autorización y seguridad de rutas 
-
--Integración con base de datos mediante Knex.js 
-
--Participación en la mejora de la experiencia de usuarios 
+- Desarrollo de funcionalidades frontend y backend 
+- Implementación de lógica para la gestión de información 
+- Configuración de autenticación, autorización y seguridad de rutas 
+- Integración con base de datos mediante Knex.js 
+- Participación en la mejora de la experiencia de usuarios 
 
 **Nota:** El código fuente no puede ser compartido por políticas de confidencialidad. 
 
-**Capturas del sistema:**
+**📸Capturas del sistema:**
 
 **Vista Publicaciones** 
 <img width="1439" height="760" alt="Publicaciones" src="https://github.com/user-attachments/assets/c23a07b1-45fd-4786-83e4-26d939cca52a" />
